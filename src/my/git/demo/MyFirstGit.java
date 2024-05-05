@@ -9,6 +9,8 @@ public class MyFirstGit {
 		System.out.println("I am sanjeet from bihar..");
 		System.out.println("change regarding sumit_dev");
 		System.out.println("Main regarding change..");
+		int number = 10;
+		System.out.println(number);
 	}
 	
 }
